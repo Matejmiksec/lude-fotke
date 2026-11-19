@@ -1,0 +1,10 @@
+{
+  "name": "Lude Fotke & Clipovi",
+  "short_name": "Lude Fotke",
+  "description": "Aplikacija za lude fotke i video clipove sa stilovima",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ff2d55",
+  "orientation": "any"
+}
